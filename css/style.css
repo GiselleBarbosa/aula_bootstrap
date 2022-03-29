@@ -1,9 +1,14 @@
 .navbar {
-  background-color: rgb(117, 122, 119);
+  background-color: rgb(171, 173, 172);
 }
 .quem-somos {
   background-color: rgb(222, 220, 224);
 }
 .margin {
-  padding-top: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+p {
+  font-size: 18px;
+  margin-top: 1%;
 }
