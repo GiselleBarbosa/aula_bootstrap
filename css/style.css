@@ -12,3 +12,15 @@ p {
   font-size: 18px;
   margin-top: 1%;
 }
+dt {
+  color: blue;
+}
+dl {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(63, 100, 223);
+}
